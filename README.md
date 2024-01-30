@@ -1,9 +1,5 @@
 # Kane
-**Citizen + Kane** es un tema personalizado del Skin Citizen para MediaWiki desarrollado por la Escuelña de Arquitectura y Diseño de la Pontificia Universidad Católica de Valparaíso (PUCV), enfocado en la accesibilidad y el diseño universal. Mejora la experiencia del usuario, fomenta la inclusión y promueve la colaboración en la comunidad académica de la PUCV.
-
-## Tema Base: Citizen
-
-El tema base seleccionado para Casiopea es "Citizen", que se encuentra en el repositorio oficial de MediaWiki. Citizen es un tema versátil y altamente configurable que servirá como punto de partida para nuestras personalizaciones.
+**Citizen + Kane** es un tema personalizado para [Citizen](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) para MediaWiki desarrollado por la [Escuelña de Arquitectura y Diseño](http://www.ead.pucv.cl) de la Pontificia Universidad Católica de Valparaíso (PUCV) para su wiki [Casiopea](http://wiki.ead.pucv.cl).
 
 ## Diseño y Personalizaciones
 
