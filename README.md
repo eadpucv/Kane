@@ -10,7 +10,7 @@
 
 ## Requerimientos
 - [Mediawiki](https://www.mediawiki.org/wiki/Download) versión 1.39+
-- [Citizen Skin](https://github.com/StarCitizenTools/mediawiki-skins-Citizen)
+- [Citizen Skin](https://github.com/StarCitizenTools/mediawiki-skins-Citizen) del juego [Star Citizen](https://starcitizen.tools/)
 - La extensión [TemplateStyles](https://www.mediawiki.org/wiki/Extension:TemplateStyles) para MediaWiki
 
 ## Instalación
