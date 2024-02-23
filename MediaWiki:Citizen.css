@@ -1,0 +1,23 @@
+
+/*************************                 Variables                    */
+
+:root{
+    --color-primary:                rgb(181, 14, 5);
+    --color-primary--hover:         rgb(238, 117, 101);
+    --color-primary--active:        rgb(89, 0, 232);
+    --color-edit:                   rgba(255, 217, 78, 0.325);
+    --color-edit--hover:            rgba(195, 255, 0, 0.512);
+}
+
+
+/*************************                 Editor                      */
+
+.skin-citizen .mw-editform #wpTextbox1 {
+ font-size: 100%;
+ padding: 1ex;
+ background-color: var(--color-edit);
+}
+
+.skin-citizen .mw-editform #wpTextbox1:hover {
+ background-color: var(--color-edit--hover);
+}

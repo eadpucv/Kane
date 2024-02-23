@@ -15,6 +15,6 @@
 
 ## Instalación
 1. <img src='./img/favicon.png' style='width:32px; height:auto; display:inline-block'> Definir la ruta de los logos en `LocalSettings.php`.Ver logos en carpeta `/img`.
-2. Definir estilos generales en <code>[MediaWiki:Common.css](MediaWiki:Common.css.md)</code>
-3. Definir [variables](css-variables.md) y estilos en <code>[MediaWiki:Citizen](MediaWiki:Citizen.css.md)</code>
+2. Definir estilos generales en <code>[MediaWiki:Common.css](MediaWiki:Common.css)</code>
+3. Definir [variables](css-variables.css) y estilos en <code>[MediaWiki:Citizen](MediaWiki:Citizen.css)</code>
 4. Definir el pie de página en <code>[MediaWiki:Citizen-footer-tagline](MediaWiki:Citizen-footer-tagline.md)</code>
